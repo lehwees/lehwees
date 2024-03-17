@@ -18,7 +18,7 @@
 
 ##
 
-### Contato
+### Contacts
 
 <div> 
   <a href="https://www.linkedin.com/in/let%C3%ADcia-machado-16226317a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
