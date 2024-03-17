@@ -1,4 +1,4 @@
-##Hello, I'm Leticia Machado, a full-stack developer who graduated from Fatec Franca and is passionate about programming.
+## Hello, I'm Leticia Machado, a full-stack developer who graduated from Fatec Franca and is passionate about programming.
 
 <div align="center">
   
